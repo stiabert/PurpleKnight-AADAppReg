@@ -22,6 +22,7 @@ This PoSH script provides the following functions:
   * Device.Read.All;
   * Directory.Read.All;
   * GroupMember.Read.All;
+  * IdentityRiskyUser.Read.All;
   * Policy.Read.All;
   * PrivilegedAccess.Read.AzureAD;
   * Reports.Read.All;
